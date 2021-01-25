@@ -93,4 +93,7 @@ window.doneTask = async (taskName) =>{
   }
 
 }
+let searchTask = (task) => {
+  console.log(task);
+}
 
